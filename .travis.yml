@@ -1,6 +1,6 @@
 language: python
 
 pyhton:
- - "stable"
+ - "3.7.1"
 
 script: python manage.py test polls
