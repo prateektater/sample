@@ -1,3 +1,5 @@
 db.sqlite3
-__pycache__
+polls/__pycache__
+mysite/__pycache__
 polls/static/polls/images
+
