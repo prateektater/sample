@@ -3,4 +3,4 @@ language: python
 pyhton:
  - "stable"
 
-script: tests.py
+script: python manage.py test polls
