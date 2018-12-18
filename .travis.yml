@@ -1,6 +1,6 @@
 language: python
 
-pyhton:
+python:
   - 3.7.1
 
 install:
