@@ -5,12 +5,18 @@ This is a simple vote app written in Django using the instructions given in the 
 It includes basic concepts of database, testing and CI/CD using Travis CI and Docker.
 
 ## For Docker
-check docker container with command
+
+for building docker image write in terminal 
+
+docker-compose up
+
+open another terminal and write
+check docker container id with command
 docker ps
 
 copy the container id
 
-open another terminal and write
+
 
 docker exec -it "docker id" bash -l
 
