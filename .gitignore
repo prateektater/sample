@@ -2,4 +2,3 @@ db.sqlite3
 polls/__pycache__
 mysite/__pycache__
 polls/static/polls/images
-
