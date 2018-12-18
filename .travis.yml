@@ -1,6 +1,10 @@
 language: python
 
 pyhton:
- - "3.7.1"
+  - 3.7.1
 
-script: python manage.py test polls
+install:
+  - pip install -r requirements.txt
+
+script: 
+  - python manage.py test polls
